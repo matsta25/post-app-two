@@ -3,5 +3,5 @@ export const environment = {
   API_BASE: 'https://jsonplaceholder.typicode.com',
   env: 'prod',
   WEATHER_API_KEY: 'dff374d5b86373a365b46793e20f9c5c',
-  WEATHER_API_BASE: 'http://api.openweathermap.org/data/2.5'
+  WEATHER_API_BASE: 'https://api.openweathermap.org/data/2.5'
 };
